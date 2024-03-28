@@ -9,7 +9,7 @@ Este é um sistema simples para avaliar candidatos com base em várias etapas de
 
 ## Uso
 
-Execute o script Python no terminal com o comando `Projeto Individual (M1).py`.
+Execute o script Python no terminal com o comando `python Projeto Individual (M1).py`.
 
 O programa irá apresentar um menu com as seguintes opções:
 
